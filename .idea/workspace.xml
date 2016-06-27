@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0281dab1-eb8f-4a0c-8b2a-b21f2b59f59b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="freeservices.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="346">
+              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -135,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1466997547268</updated>
-      <workItem from="1466997548430" duration="5704000" />
+      <workItem from="1466997548430" duration="5787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5704000" />
+    <option name="totallyTimeSpent" value="5787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="27" width="1280" height="735" extended-state="0" />
@@ -207,8 +206,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="346">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
           <folding />
         </state>
       </provider>
