@@ -33,13 +33,13 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 group :development do
-  gem 'sqlite3'
   gem 'byebug'
   gem 'web-console', '2.0.0.beta3'
   gem 'spring',      '1.1.3'
 end
 
+gem 'sqlite3', :group => [:development, :test]
 group :production do
-  gem 'pg',             '0.17.1'
-  gem 'rails_12factor', '0.0.2'
+  gem 'thin'
+  gem 'pg'
 end
