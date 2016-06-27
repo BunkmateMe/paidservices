@@ -38,8 +38,7 @@ group :development do
   gem 'spring',      '1.1.3'
 end
 
-gem 'sqlite3', :group => [:development, :test]
 group :production do
-  gem 'thin'
-  gem 'pg'
+  gem 'pg',             '0.17.1'
+  gem 'rails_12factor', '0.0.2'
 end
