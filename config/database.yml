@@ -1,3 +1,9 @@
+defaults: &defaults
+pool: 5
+timeout: 5000
+host: localhost
+
+
 development:
   adapter: postgresql
   host: localhost
