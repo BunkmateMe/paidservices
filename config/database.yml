@@ -1,7 +1,8 @@
 default: &default
+adapter: postgresql
 pool: 5
 timeout: 5000
-host: localhost
+
 
 
 development:
@@ -19,6 +20,6 @@ test:
 
 production:
     adapter: postgresql
-    database: dc6o0hafblbcf4
+    database: dc6o0hafblbc
     pool: 5
     timeout: 5000
